@@ -347,3 +347,15 @@
   height: 16px;
   margin-right: 10px;
 }
+
+.footer__column-link:hover {
+  color: #2f80ed;
+}
+
+.feynman__link:hover {
+  color: #1f1f1f;
+}
+
+.header__link:hover {
+  color: #FFB273;
+}
