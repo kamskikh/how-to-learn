@@ -174,7 +174,7 @@
 }
 
 .feynman {
-  background-color:#f2f2f2 ;
+  background-color:#f2f2f2;
   position: relative;
   min-height: 790px;
   z-index: -2;
@@ -263,9 +263,6 @@
   z-index: 1;
 }
 
-.table__heading_theme_dark{
-}
-
 .kaufman_triangle {
   background-image: url(../images/kaufman-triangle.svg);
   background-size: cover;
@@ -295,12 +292,6 @@
 .footer__columns_content_copyright {
   position: relative;
   flex-basis: 711px;
-}
-
-.footer__columns_content_info {
-}
-
-.footer__columns_content_social {
 }
 
 .logo_place_footer{
