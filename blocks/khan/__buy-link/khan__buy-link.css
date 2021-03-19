@@ -1,4 +1,4 @@
-.buy-link {
+.khan__buy-link {
     text-decoration: none;
     color: #2f80ed;
     font-size: 30px;
@@ -9,7 +9,7 @@
   }
   
   
-  .buy-link:hover {
+  .khan__buy-link:hover {
     color: #1f1f1f;
     opacity: .5;
   }

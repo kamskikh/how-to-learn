@@ -1,6 +1,7 @@
-.book-pic {
-    background-image: url(../../../images/khan-book.jpg);
+.khan__book-pic {
     width: 620px;
     height: 608px;
     margin-right: 48px;
+    object-fit:cover;
+    object-position:left top;
   }

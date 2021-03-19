@@ -1,7 +1,5 @@
 .logo_place_footer{
-    position: absolute;
     width: 183px;
     height: 35px;
-    top: 0;
-    left: 0;
+    transition: opacity 1s linear 0s;
   }
